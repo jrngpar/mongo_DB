@@ -10,3 +10,5 @@
 Primary key -> name
 
 commit changes and push code to Github
+
+look up data structures in JS
